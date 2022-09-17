@@ -1,0 +1,29 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    background-image: url("./background.jpeg");
+    background-size: cover;
+}
+
+form {
+    background-color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    border-radius: 30px;
+    padding: 20px;
+    border: 15px solid green;
+    box-shadow: 2px 2px 2px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#form1 {
+    background-color: rgb(179, 194, 208);
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    padding: 10px;
+    border: 5px solid rgb(209, 105, 105);
+}
